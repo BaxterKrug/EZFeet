@@ -10,3 +10,5 @@ Contributing
 We welcome contributions to EZ Feet! If you have an idea for an improvement, please open an issue or submit a pull request.
 Credits
 EZ Feet were created by Baxter Krug. A video depicting their function and assembly will be coming shortly.
+" "
+https://www.tinkercad.com/things/eEQKGGSJRlA
